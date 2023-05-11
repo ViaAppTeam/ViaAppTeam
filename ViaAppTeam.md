@@ -3,8 +3,8 @@
 <p> We are a team going to high school and developing bots </p>
   
 <h1> :grey_question: About </h1>
-  <p>  We are name **ViaAppSupportTeam** </p>
-  <p>  We are **Js, Css, React, Java, Html** Developer </p>
+  <p>  We are name ViaAppSupportTeam </p>
+  <p>  We are Js, Css, React, Java, Html Developer </p>
   <p>  Favorite programming language <a href="https://tr.wikipedia.org/wiki/JavaScript"> Javascript & <a href="https://tr.wikipedia.org/wiki/Python"> Python </a> </p>
 
 
