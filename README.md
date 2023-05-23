@@ -9,10 +9,10 @@
 
 
 <h1> Technologies We Use. </h1>
-<img src="https://skillicons.dev/icons?i=js,py,cs,react,nodejs,mongodb,html,css,vscode,discord,atom,sublimetext&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,py,cs,react,nodejs,mongodb,html,css,vscode,discord,atom,sublimetext&theme=white" />
 
 <h1> :chart_with_upwards_trend: We Stats </h1>
-<img src="https://github-readme-stats.vercel.app/api?username=ViaAppSupport&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=ViaAppSupport&show_icons=true&theme=white" />
 
 <h1> :gem: We achievements </h1>
-<img src="https://github-profile-trophy.vercel.app/?username=ViaAppSupport&theme=onedark" />
+<img src="https://github-profile-trophy.vercel.app/?username=ViaAppSupport&theme=onewhite" />
