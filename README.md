@@ -11,7 +11,7 @@
 <h1> Technologies We Use. </h1>
 <img src="https://skillicons.dev/icons?i=js,ts,py,cs,react,nodejs,mongodb,html,css,vscode,discord,atom,sublimetext&theme=dark" />
 
-<h1> :chart_with_upwards_trend: We Stats </h1> <h1> :chart_with_upwards_trend: We Developer Stats </h1>
+<h1> :chart_with_upwards_trend: We Stats </h1>
 <img src="https://github-readme-stats.vercel.app/api?username=ViaAppSupport&show_icons=true&theme=white" /> <img src="https://luppufy.onrender.com/996413007116640327">
 
 <h1> :gem: We achievements </h1>
