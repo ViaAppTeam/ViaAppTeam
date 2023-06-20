@@ -1,21 +1,15 @@
-<div align="center">
-<h1> :wave: Hi, We are @ViaAppSupport Team </h1>
-<p> We are a team going to high school and developing bots </p>
-  
-<h1> :grey_question: About </h1>
-  <p>  We are name ViaAppSupportTeam </p>
-  <p>  We are Js, Css, Python, TypeScript, React, Java, Html Developer </p>
-  <p>  Favorite programming language <a href="https://tr.wikipedia.org/wiki/JavaScript"> Javascript & <a href="https://tr.wikipedia.org/wiki/Python"> Python </a> </p>
+Hi 👋 My name is Ataberk
+===========================
 
+Full-stack developer
+--------------------
 
-<h1> Technologies We Use. </h1>
-<img src="https://skillicons.dev/icons?i=js,ts,py,cs,react,nodejs,mongodb,html,css,vscode,discord,atom,sublimetext&theme=dark" />
+<img width="50%" align="right" src="https://github-widgetbox.vercel.app/api/profile?username=ViaAppSupport&data=followers,repositories,stars,commits&theme=darkmode">
+<img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
+<img width="50%" align="right" src="https://github-widgetbox.vercel.app/api/skills?languages=js,kotlin,html,css,nodejs,java,php,py,mongo,vsc&theme=darkmode">
 
-<h1> :chart_with_upwards_trend: We Stats </h1>
-<img src="https://github-readme-stats.vercel.app/api?username=ViaAppSupport&show_icons=true&theme=white" />
+Hello I'm Ataberk, I'm a full stack developer working on [ViaApp](https://discord.gg/viaapp-support-1024093251717828698)
+I'm based in <img width="20" height="20" align="center" src="https://i.imgur.com/ff547ZT.png"> Antalya, **Turkey**. I'm working on bots and websites on discord, I'm usually interested in the web and I'm developing bots, I'm more interested in the web but I don't stop working on bots.
 
-<h1> :chart_with_upwards_trend: We Developers </h1>
-<img src="https://luppufy.onrender.com/996413007116640327">
-
-<h1> :gem: We achievements </h1>
-<img src="https://github-profile-trophy.vercel.app/?username=ViaAppSupport&theme=onewhite" />
+- 🚀 Working ViaApp [ViaApp Support](https://discord.gg/viaapp-support-1024093251717828698)
+- ⚠ Working on Website [viaapp](https://viaapp.xyz)
