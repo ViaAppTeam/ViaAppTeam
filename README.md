@@ -13,6 +13,8 @@
 
 <h1> :chart_with_upwards_trend: We Stats </h1>
 <img src="https://github-readme-stats.vercel.app/api?username=ViaAppSupport&show_icons=true&theme=white" />
+
+<h1> :chart_with_upwards_trend: We Developers </h1>
 <img src="https://luppufy.onrender.com/996413007116640327">
 
 <h1> :gem: We achievements </h1>
